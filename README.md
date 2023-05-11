@@ -1,10 +1,10 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="fusion.png" alt="logo" width="280"  height="auto" />
+  <img src="web.png" alt="logo" width="280"  height="auto" />
   <br/><br/>
 
-  <h1><b>Ruby on Rails React </b></h1>
+  <h1><b> Back-end Ruby on Rails </b></h1>
 
   <br/>
 
@@ -59,6 +59,13 @@ This application allows you to:
   </ul>
 </details>
 
+<br>
+
+🛠 Frontend repository:
+To visit the frontend repository, [Please Click Here](https://github.com/PierreBarba/react-redux-frontend.git).
+
+<br>
+
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
@@ -98,7 +105,7 @@ you have to those tools in your local machine.
 Clone the project using the following bash command in an appropriate location.
 
 ```bash
-  git clone https://github.com/PierreBarba/Ruby-on-Rails-React.git
+  git clone https://github.com/PierreBarba/ruby-on-rails-backEnd.git
 ```
 
 Go to the project directory.
