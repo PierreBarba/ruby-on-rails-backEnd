@@ -111,7 +111,7 @@ Clone the project using the following bash command in an appropriate location.
 Go to the project directory.
 
 ```bash
-  cd Ruby-on-Rails-React
+  cd ruby-on-rails-backEnd
 ```
 
 To learn more [check Custom Credentials](https://edgeguides.rubyonrails.org/security.html#custom-credentials) documentation.
@@ -129,7 +129,7 @@ For installing necessary packages, run the following bash command:
 In the project directory, you can run the project by using following bash command:
 
 ```bash
-  ./bin/dev
+  rails server
 ```
 
 And now you can visit the site with the URL http://localhost:3000
